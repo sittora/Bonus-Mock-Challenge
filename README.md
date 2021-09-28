@@ -53,6 +53,9 @@ run `bundle install`
 | Column | Type |
 | --- | --- |
 | name | string |
+
+### Seeds
+* There are some `Barista` seeds written for you, but `Customer` and `Order` seeds are up to you!
   
 ## Relationships
 
